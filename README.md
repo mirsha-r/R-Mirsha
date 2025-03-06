@@ -14,4 +14,4 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mirsha-r)
 
 🌱 **Currently Learning:** Advanced Python & Competitive Coding  
-📫 **Reach me at:** rmirsha11@gmail.com  
+📫 **Reach me at:** rmirsha11@gmail.com 
