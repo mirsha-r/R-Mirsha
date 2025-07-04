@@ -4,7 +4,7 @@
 🚀 **Exploring AI, ML & Data Science | Passionate about Problem-Solving**  
 
 ### 🛠 Tech Stack:
-- **Programming Languages:** Python, C, C++  
+- **Programming Languages:** Python, C, Java  
 - **AI/ML:** TensorFlow, Scikit-Learn, Pandas, NumPy  
 - **Web Dev:** HTML, CSS, JavaScript  
 - **Tools:** Git, GitHub, Jupyter Notebook, VS Code  
