@@ -13,5 +13,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirsha-r-7937a2268/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mirsha-r)
 
-🌱 **Currently Learning:** Advanced Python & Competitive Coding  
+🌱 **Currently Learning:** Advanced Java & Competitive Coding  
 📫 **Reach me at:** rmirsha11@gmail.com 
